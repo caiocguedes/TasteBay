@@ -1,5 +1,5 @@
 current directory: /home/guedes/TasteBay/vendor/bundle/ruby/2.3.0/gems/nio4r-2.0.0/ext/nio4r
-/usr/bin/ruby2.3 -r ./siteconf20170412-7754-1xs1aqq.rb extconf.rb
+/usr/bin/ruby2.3 -r ./siteconf20170412-8337-1iptbfl.rb extconf.rb
 mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
 
 extconf failed, exit code 1
